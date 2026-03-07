@@ -19,6 +19,7 @@ This portfolio website was built using:
 - HTML5
 - CSS3
 - JavaScript
+- 
 These technologies help create responsive and interactive web applications.
 
 ## ⚙️ Installation (Run Locally)
