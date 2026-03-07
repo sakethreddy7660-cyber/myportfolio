@@ -23,11 +23,11 @@ These technologies help create responsive and interactive web applications.
 
 ## ⚙️ Installation (Run Locally)
 To run this project locally on your computer:
-1. Clone the repository
+1. Clone the repository:
 git clone https://github.com/sakethreddy7660-cyber/myportfolio.git
-2. Navigate to the project folder
+2. Navigate to the project folder:
 cd myportfolio
-3. Open the website
+3. Open the website:
 Open the index.html file in your browser.
 
 ## 📬 Contact
@@ -35,6 +35,5 @@ If you would like to connect with me:
 GitHub: https://github.com/sakethreddy7660-cyber  
 Portfolio: https://sakethreddy7660-cyber.github.io/myportfolio/
 
-## 📄 License
 
-This project is open-source and available for learning and personal use.
+=>This project is open-source and available for learning and personal use.
